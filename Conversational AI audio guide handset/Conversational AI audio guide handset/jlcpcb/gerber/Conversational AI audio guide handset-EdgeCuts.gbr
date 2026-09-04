@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
+%TF.CreationDate,2026-08-01T11:59:26+03:00*%
+%TF.ProjectId,Conversational AI audio guide handset,436f6e76-6572-4736-9174-696f6e616c20,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-08-01 11:59:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X153482578Y-37250000D02*
+X184482578Y-37250000D01*
+X184482578Y-90250000D01*
+X153482578Y-90250000D01*
+X153482578Y-37250000D01*
+M02*
