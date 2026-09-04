@@ -14,19 +14,16 @@ ESP32-C5-based handset for a museum AI audio guide. Captures and cleans visitor 
 ## Schematic & PCB
 
 ### Schematics
-&nbsp;
+
 ![Schematic - Top Level](./Documents/Conversational%20AI%20audio%20guide%20handset_page-1.jpg)
 *Page 1: Top-Level Hierarchy.*
-&nbsp;
-&nbsp;
-&nbsp;
 
 ![Schematic - Power & Battery](./Documents/Conversational%20AI%20audio%20guide%20handset_page-2.jpg)
 *Page 2: Power & Battery Management.*
-&nbsp;
+
 ![Schematic - MCU & Interface](./Documents/Conversational%20AI%20audio%20guide%20handset_page-3.jpg)
 *Page 3: Microcontroller & User Interface.*
-&nbsp;
+
 ![Schematic - Audio System](./Documents/Conversational%20AI%20audio%20guide%20handset_page-4.jpg)
 *Page 4: Audio System.*
 
