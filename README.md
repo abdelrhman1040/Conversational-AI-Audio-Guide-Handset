@@ -30,18 +30,18 @@ The handset does no AI inference — all compute-heavy work (speech recognition,
 ## Schematic & PCB
 
 ### Schematics
-
+<br>
 ![Schematic - Top Level](./Documents/Conversational%20AI%20audio%20guide%20handset_page-1.jpg)
 *Page 1: Top-Level Hierarchy.*
-
+<br>
 
 ![Schematic - Power & Battery](./Documents/Conversational%20AI%20audio%20guide%20handset_page-2.jpg)
 *Page 2: Power & Battery Management.*
-
+<br>
 
 ![Schematic - MCU & Interface](./Documents/Conversational%20AI%20audio%20guide%20handset_page-3.jpg)
 *Page 3: Microcontroller & User Interface.*
-
+<br>
 
 ![Schematic - Audio System](./Documents/Conversational%20AI%20audio%20guide%20handset_page-4.jpg)
 *Page 4: Audio System.*
