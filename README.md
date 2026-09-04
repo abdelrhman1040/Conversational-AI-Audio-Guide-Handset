@@ -9,7 +9,7 @@ ESP32-C5-based handset for a museum AI audio guide. Captures and cleans visitor 
 - Dual-input charging: Auto-arbitrated dual-input charging (Pogo pins + USB-C).
 - 12-hour runtime on a single 1S Li-Po cell.
 - BOM cost-modeled for 50, 100, and 500 units.
--The handset does no AI inference all compute-heavy work (speech recognition, the conversation model, speech synthesis) is offloaded to the edge server.
+- The handset does no AI inference all compute-heavy work (speech recognition, the conversation model, speech synthesis) is offloaded to the edge server.
 
 ## Schematic & PCB
 
