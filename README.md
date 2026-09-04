@@ -32,7 +32,6 @@ ESP32-C5-based handset for a museum AI audio guide. Captures and cleans visitor 
 ### PCB Layout
 
 ![PCB Layout](./Documents/pcb-layout.png)
-*Full PCB layout*
 
 ## Power Subsystem
 
